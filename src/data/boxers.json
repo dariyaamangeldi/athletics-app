@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Gennadiy Gennadyevich Golovkin",
+    "height": "179cm",
+    "mass": "72kg",
+    "birth_year": "08.04.1982",
+    "gender": "male",
+    "country": "Kazakstan",
+    "professional_career": "45",
+    "style": "puncher, counterpuncher (панчер,контрпанчер)",
+    "url": "https://avatars.mds.yandex.net/i?id=09816cd52786045b18962b091b483fbe-4714015-images-thumbs&n=13"
+  },
+  {
+    "name": "Ryōta Murata",
+    "height": "183cm",
+    "mass": "72kg",
+    "birth_year": "12.01.1986",
+    "gender": "male",
+    "country": "Japan",
+    "professional_career": "19",
+    "style": "puncher",
+    "url": "http://photos.prnasia.com/fileman/static_file/do_download?seq=2&permalink=20140204/8521400590"
+  },
+  {
+    "name": "Santos Saul (Canelo) Alvarez Barragan",
+    "height": "173cm",
+    "mass": "79kg",
+    "birth_year": "18,08,1990",
+    "gender": "male",
+    "country": "Mexico",
+    "professional_career": "62",
+    "style": "Swarmer(Свормер, контрпанчер)",
+    "url": "https://ctnews.ru/storage/posts/December2021/fvA7nmfsYLSliY6p21uF.jpg"
+  },
+  {
+    "name": "Vasily Anatolyevich Lomachenko",
+    "height": "170cm",
+    "mass": "59kg",
+    "birth_year": "17.02.1988",
+    "gender": "male",
+    "country": "Ukraine",
+    "professional_career": "19",
+    "style": "Outfighter (Аутфайтер)",
+    "url": "https://sun9-43.userapi.com/impg/uqWYjRXdXTfRkoRXWwl_PoOuA4MiywqxYT7hzA/j9nbjsXJe4s.jpg?size=575x604&quality=96&sign=6e7bc3e4a458758639f71c186dbfe015&type=album"
+  },
+  {
+    "name": "Roy Levesta Jone",
+    "height": "180cm",
+    "mass": "90kg",
+    "birth_year": "16.01.1969",
+    "gender": "male",
+    "country": "USA",
+    "professional_career": "75",
+    "style": "Outfighter (Аутфайтер)",
+    "url": "https://fight2fame.com/wp-content/uploads/2020/02/roy-2.jpg"
+  }
+]

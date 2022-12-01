@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Abe Uta",
+    "height": "158cm",
+    "mass": "52kg",
+    "birth_year": "14.07.2000",
+    "gender": "female",
+    "country": "Japan",
+    "homeworld": "https://starwars-visualguide.com/assets/img/planets/1.jpg",
+    "created": "2014-12-09T13:50:51.644000Z",
+    "edited": "2014-12-20T21:17:56.891000Z",
+    "url": "https://avatars.mds.yandex.net/i?id=2a0000017a0a591c773213918e5a58845e27-4304678-images-thumbs&n=13"
+  },
+  {
+    "name": "Eldos Smetov",
+    "height": "167cm",
+    "mass": "60kg",
+    "birth_year": "09.09.1992",
+    "gender": "male",
+    "country": "Kazakhstan",
+    "homeworld": "https://starwars-visualguide.com/assets/img/planets/1.jpg",
+    "created": "2014-12-10T15:10:51.357000Z",
+    "edited": "2014-12-20T21:17:50.309000Z",
+    "url": "https://www.gov.kz/uploads/2021/7/24/1371f951c85547d2f03dcd6bd4486425_original.2906179.jpg"
+  },
+  {
+    "name": "Daria Bilodid",
+    "height": "172cm",
+    "mass": "48kg",
+    "birth_year": "10.10.2000",
+    "gender": "female",
+    "country": "Ukraine",
+    "homeworld": "https://starwars-visualguide.com/assets/img/planets/8.jpg",
+    "created": "2014-12-10T15:11:50.376000Z",
+    "edited": "2014-12-20T21:17:50.311000Z",
+    "url": "https://mir-judo.su/wp-content/uploads/2021/01/beloded_d-scaled.jpg?w=640"
+  },
+  {
+    "name": "Gusman Kyrgyzbayev",
+    "height": "175cm",
+    "mass": "60kg",
+    "birth_year": "28.09.1992",
+    "gender": "male",
+    "country": "Kazakhstan",
+    "homeworld": "https://starwars-visualguide.com/assets/img/planets/8.jpg",
+    "created": "2014-12-10T15:11:50.376000Z",
+    "edited": "2014-12-20T21:17:50.311000Z",
+    "url": "https://www.gov.kz/uploads/2020/11/23/dae9bb1534f35d8a7bac20ed165b6e57_original.201424.jpg"
+  },
+  {
+    "name": "Diyora Keldiyorova",
+    "height": "165cm",
+    "mass": "52kg",
+    "birth_year": "13.07.1998",
+    "gender": "female",
+    "country": "Uzbekistan",
+    "homeworld": "https://starwars-visualguide.com/assets/img/planets/8.jpg",
+    "created": "2014-12-10T15:11:50.376000Z",
+    "edited": "2014-12-20T21:17:50.311000Z",
+    "url": "https://avatars.mds.yandex.net/i?id=34ed0d215bdf569bf9f4a78124714de66f756ae7-7215189-images-thumbs&n=13"
+  }
+]

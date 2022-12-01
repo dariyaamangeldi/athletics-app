@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Cristiano Ronaldo",
+    "height": "185cm",
+    "number": "7",
+    "birth_year": "05.02.1985",
+    "gender": "male",
+    "country": "Portugal",
+    "position": "Striker",
+    "url": "https://i.pinimg.com/736x/5d/19/41/5d19416f2216aebeb343dd06b5675a8f.jpg"
+  },
+  {
+    "name": "Mohamed Salah",
+    "height": "175cm",
+    "number": "11",
+    "birth_year": "15.06.1992",
+    "gender": "male",
+    "country": "Egypt",
+    "position": "Striker",
+    "url": "https://i.pinimg.com/736x/26/18/75/2618755b4aaac61a17212498620b7826.jpg"
+  },
+  {
+    "name": "Lionel Messi",
+    "height": "170cm",
+    "number": "30",
+    "birth_year": "24.06.1987",
+    "gender": "male",
+    "country": "Argentina",
+    "position": "Striker",
+    "url": "https://i.pinimg.com/736x/b2/00/5a/b2005ac8d476621487125c701df4fe52.jpg"
+  },
+  {
+    "name": "Keilor Antonio Navas",
+    "height": "185cm",
+    "number": "1",
+    "birth_year": "15.12.1986",
+    "gender": "male",
+    "country": "San Isidro de El General",
+    "position": "Goalkeeper",
+    "url": "https://i.pinimg.com/originals/e3/7d/2a/e37d2a01ecd27af30a6bf8fe9ef84936.jpg"
+  },
+  {
+    "name": "Sergio Ramos",
+    "height": "184cm",
+    "number": "4",
+    "birth_year": "30.03.1986",
+    "gender": "male",
+    "country": "Spain",
+    "position": "Вefender ",
+    "url": "https://avatars.dzeninfra.ru/get-zen_doc/3122622/pub_60b4c166e66ec349833e1451_60b4c1ab2174cf46a96f643a/scale_1200"
+  }
+]
